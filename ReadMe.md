@@ -1,3 +1,5 @@
+![GitHub Repo Banner](https://ghrb.waren.build/banner?header=%F0%9F%8C%B8+Axelle+%F0%9F%A9%B7&subheader=%21%5Bgithub%5D+github.com%2FMissAxelle&bg=FDE8E3&color=DE7356&headerfont=Quicksand&subheaderfont=Nunito&support=false)
+
 <h1 align="center">Hi 👋, I'm Axelle</h1>
 <h3 align="center">I build apps, learn how computers really work, and make games</h3>
 
