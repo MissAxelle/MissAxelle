@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Axelle</h1>
 <h3 align="center">
-  <img src="https://komarev.com/ghpvc/?username=MissAxelle&base=1250&abbreviated=true" alt="" />
+  <img src="https://komarev.com/ghpvc/?username=MissAxelle&abbreviated=true" alt="" />
 </h3>
 <h3 align="center">I build apps, learn how computers really work, and make games</h3>
 
