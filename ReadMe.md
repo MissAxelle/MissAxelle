@@ -1,6 +1,6 @@
 ![GitHub Repo Banner](https://ghrb.waren.build/banner?header=%F0%9F%8C%B8+Axelle+%F0%9F%A9%B7&subheader=%21%5Bgithub%5D+github.com%2FMissAxelle&bg=FDE8E3&color=DE7356&headerfont=Quicksand&subheaderfont=Nunito&support=false)
 
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Axelle" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&&pause=1000&center=true&vCenter=true&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Axelle" alt="Typing SVG" /></h1>
 <h3 align="center">
   <img src="https://komarev.com/ghpvc/?username=MissAxelle&abbreviated=true" alt="" />
 </h3>
