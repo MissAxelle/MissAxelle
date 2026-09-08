@@ -6,6 +6,7 @@
 </h3>
 <h3 align="center">I build, automate, self-host, and break things apart to understand how they work.</h3>
 
+<p align="center"><img src="https://github-widgetbox.vercel.app/api/profile?username=MissAxelle&data=followers,repositories,stars,commits"></p>
 
 ## 💫 About Me:
 📱 I build iOS apps with Swift<br>🎮 I develop games from scratch, including my own custom C++/SFML Visual Novel Engine<br>🌐 I’m the owner and sole full-stack developer of Selenia Network, a Velocity/Paper Minecraft Server<br>📈 I experiment with trading bots, crypto/stocks, and CS2 Major pick'em prediction systems<br>🖥️ I self-host pretty much everything I can: VPNs, media servers, TeamSpeak, game servers, and more<br>🔧 I love tinkering with hardware — from jailbreaking consoles to Raspberry Pis, Arduinos, and ZimaBoards<br>⚙️ I’m currently exploring Assembly and learning more about how computers work under the hood<br>🤝 I’m always interested in collaborating on ambitious PC game projects<br>
