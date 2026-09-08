@@ -4,11 +4,11 @@
 <h3 align="center">
   <img src="https://komarev.com/ghpvc/?username=MissAxelle&abbreviated=true" alt="" />
 </h3>
-<h3 align="center">I build apps, learn how computers really work, and make games</h3>
+<h3 align="center">I build, automate, self-host, and break things apart to understand how they work.</h3>
 
 
 ## 💫 About Me:
-🔭 I’m currently working on iOS apps<br>👯 I’m looking to collaborate on PC games<br>🌱 I’m currently learning assembly language
+📱 I build iOS apps with Swift<br>🎮 I develop games from scratch, including my own custom C++/SFML Visual Novel Engine<br>🌐 I’m the owner and sole full-stack developer of Selenia Network, a Velocity/Paper Minecraft Server<br>📈 I experiment with trading bots, crypto/stocks, and CS2 Major pick'em prediction systems<br>🖥️ I self-host pretty much everything I can: VPNs, media servers, TeamSpeak, game servers, and more<br>🔧 I love tinkering with hardware — from jailbreaking consoles to Raspberry Pis, Arduinos, and ZimaBoards<br>⚙️ I’m currently exploring Assembly and learning more about how computers work under the hood<br>🤝 I’m always interested in collaborating on ambitious PC game projects<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/axelle.cpp) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/axelle_cpp) 
