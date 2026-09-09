@@ -9,7 +9,16 @@
 <p align="center"><img src="https://github-widgetbox.vercel.app/api/profile?username=MissAxelle&data=followers,repositories,stars,commits"></p>
 
 ## 💫 About Me:
-📱 I build iOS apps with Swift<br>🎮 I develop games from scratch, including my own custom C++/SFML Visual Novel Engine<br>🌐 I’m the owner and sole full-stack developer of Selenia Network, a Velocity/Paper Minecraft Server<br>📈 I experiment with trading bots, crypto/stocks, and CS2 Major pick'em prediction systems<br>🖥️ I self-host pretty much everything I can: VPNs, media servers, TeamSpeak, game servers, and more<br>🔧 I love tinkering with hardware — from jailbreaking consoles to Raspberry Pis, Arduinos, and ZimaBoards<br>⚙️ I’m currently exploring Assembly and learning more about how computers work under the hood<br>🤝 I’m always interested in collaborating on ambitious PC game projects<br>
+```
+📱 I build iOS apps with Swift
+🎮 I develop games from scratch, including my own custom C++/SFML Visual Novel Engine
+🌐 I’m the owner and sole full-stack developer of Selenia Network, a Velocity/Paper Minecraft Server
+📈 I experiment with trading bots, crypto/stocks, and CS2 Major pick'em prediction systems
+🖥️ I self-host pretty much everything I can: VPNs, media servers, TeamSpeak, game servers, and more
+🔧 I love tinkering with hardware — from jailbreaking consoles to Raspberry Pis, Arduinos, and ZimaBoards
+⚙️ I’m currently exploring Assembly and learning more about how computers work under the hood
+🤝 I’m always interested in collaborating on ambitious PC game projects<br>
+```
 
 ## 🌐 Socials:
 <p align="center"><a href="https://instagram.com/axelle.cpp"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a> <a href="https://ko-fi.com/axelle_cpp"><img src="https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white" alt="Ko-fi"></a></p>
