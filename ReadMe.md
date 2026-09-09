@@ -7,6 +7,7 @@
 <h3 align="center">I build, automate, self-host, and break things apart to understand how they work.</h3>
 
 <p align="center"><img src="https://github-widgetbox.vercel.app/api/profile?username=MissAxelle&data=followers,repositories,stars,commits"></p>
+<p align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MissAxelle&bg_color=FFFFFF&card_width=800&title_color=F4BAE2&border_radius=20&custom_title=Most%20Used%20Languages%20%F0%9F%8C%B8"></p>
 
 ## 💫 About Me:
 ```
