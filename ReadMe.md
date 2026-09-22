@@ -27,5 +27,5 @@
 
 ## 💻 Tech Stack:
 
-<p align="center"><img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,css,cloudflare,docker,html,git,gradle,java,js,lua,md"></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=mysql,nginx,nodejs,npm,php,py,rust,swift,ts"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,css,cloudflare,docker,dotnet,html,git,gradle,java,js,lua"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=md,mysql,nginx,nodejs,npm,php,py,rust,swift,ts"></p>
