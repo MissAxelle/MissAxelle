@@ -11,14 +11,15 @@
 
 ## 💫 About Me:
 ```
-📱 I build iOS apps with Swift
+🚀 I'm currently preparing the release of my first game on Steam
+📱 I also build iOS apps with Swift
 🎮 I develop games from scratch, including my own custom C++/SFML Visual Novel Engine
 🌐 I’m the owner and sole full-stack developer of Selenia Network, a Velocity/Paper Minecraft Server
 📈 I experiment with trading bots, crypto/stocks, and CS2 Major pick'em prediction systems
 🖥️ I self-host pretty much everything I can: VPNs, media servers, TeamSpeak, game servers, and more
 🔧 I love tinkering with hardware — from jailbreaking consoles to Raspberry Pis, Arduinos, and ZimaBoards
 ⚙️ I’m currently exploring Assembly and learning more about how computers work under the hood
-🤝 I’m always interested in collaborating on ambitious PC game projects<br>
+🤝 I’m always interested in collaborating on ambitious PC game projects
 ```
 
 ## 🌐 Socials:
