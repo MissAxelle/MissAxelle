@@ -1,13 +1,13 @@
-![GitHub Repo Banner](https://ghrb.waren.build/banner?header=%F0%9F%8C%B8+Axelle+%F0%9F%A9%B7&subheader=%21%5Bgithub%5D+github.com%2FMissAxelle&bg=FDE8E3&color=DE7356&headerfont=Quicksand&subheaderfont=Nunito&support=false)
+[![GitHub Repo Banner](https://ghrb.waren.build/banner?header=%F0%9F%8C%B8+Axelle+%F0%9F%A9%B7&subheader=%21%5Bgithub%5D+github.com%2FMissAxelle&bg=FDE8E3&color=DE7356&headerfont=Quicksand&subheaderfont=Nunito&support=false)](https://github.com/MissAxelle)
 
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&pause=1000&color=FFC5D3&width=435&lines=Hi+%F0%9F%91%8B%2C+I%27m+%F0%9D%90%80%F0%9D%90%B1%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%9E%20%F0%9F%92%AB" alt="Typing SVG" /></h1>
-<h3 align="center">
+<h1 align="center"><a href="https://github.com/MissAxelle"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&pause=1000&color=FFC5D3&width=435&lines=Hi+%F0%9F%91%8B%2C+I%27m+%F0%9D%90%80%F0%9D%90%B1%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%9E%20%F0%9F%92%AB" alt="Typing SVG" /></h1>
+<h3 align="center"><a href="https://github.com/MissAxelle">
   <img src="https://komarev.com/ghpvc/?username=MissAxelle&abbreviated=true&color=FFC5D3" alt="" />
 </h3>
 <h3 align="center">I build, automate, self-host, and break things apart to understand how they work.</h3>
 
-<p align="center"><img src="https://github-widgetbox.vercel.app/api/profile?username=MissAxelle&data=followers,repositories,stars,commits"></p>
-<p align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MissAxelle&bg_color=FFFFFF&card_width=800&title_color=F4BAE2&border_radius=20&custom_title=Most%20Used%20Languages%20%F0%9F%8C%B8"></p>
+<p align="center"><a href="https://github.com/MissAxelle"><img src="https://github-widgetbox.vercel.app/api/profile?username=MissAxelle&data=followers,repositories,stars,commits"></p>
+<p align="center"><a href="https://github.com/MissAxelle"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MissAxelle&bg_color=FFFFFF&card_width=800&title_color=F4BAE2&border_radius=20&custom_title=Most%20Used%20Languages%20%F0%9F%8C%B8"></p>
 
 ## 💫 About Me:
 ```
@@ -28,5 +28,5 @@
 
 ## 💻 Tech Stack:
 
-<p align="center"><img src="https://skillicons.dev/icons?i=bash,bevy,c,cpp,cs,cmake,css,cloudflare,docker,dotnet,html,git,gradle,java"></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=js,lua,md,mysql,nginx,nodejs,npm,php,py,rust,swift,ts"></p>
+<p align="center"><a href="https://github.com/MissAxelle"><img src="https://skillicons.dev/icons?i=bash,bevy,c,cpp,cs,cmake,css,cloudflare,docker,dotnet,html,git,gradle,java"></p>
+<p align="center"><a href="https://github.com/MissAxelle"><img src="https://skillicons.dev/icons?i=js,lua,md,mysql,nginx,nodejs,npm,php,py,rust,swift,ts"></p>
