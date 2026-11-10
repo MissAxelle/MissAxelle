@@ -23,7 +23,8 @@
 ```
 
 ## 🌐 Socials:
-<p align="center"><a href="https://instagram.com/axelle.cpp"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a> <a href="https://ko-fi.com/axelle_cpp"><img src="https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white" alt="Ko-fi"></a></p>
+<p align="center"><a href="https://cv.axelle.uk"><img src="https://img.shields.io/badge/Portfolio-EF233C?logo=readdotcv" alt="Portfolio"></a>
+<a href="https://instagram.com/axelle.cpp"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a> <a href="https://ko-fi.com/axelle_cpp"><img src="https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white" alt="Ko-fi"></a></p>
 
 
 ## 💻 Tech Stack:
